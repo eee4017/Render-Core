@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1482059296 source:c:\users\frank\desktop\render engine\basicmathfunc.c
+	"BasicMathFunc.h"
+	"type_define.h"
+
+1482060241 c:\users\frank\desktop\render engine\basicmathfunc.h
+	"type_define.h"
+
+1482063017 c:\users\frank\desktop\render engine\type_define.h
+
+1481702210 source:c:\users\frank\desktop\render engine\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1482054638 c:\users\frank\desktop\render engine\console_draw3.h
+
+1481690962 source:c:\users\frank\desktop\render engine\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1197486290 c:\users\frank\desktop\render engine\kb_input2.h
+	<windows.h>
+
+1419989930 c:\users\frank\desktop\render engine\image.h
+
+1419988854 source:c:\users\frank\desktop\render engine\kb_input2.c
+	"kb_input2.h"
+
+1482060602 source:c:\users\frank\desktop\render engine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BasicMathFunc.h"
+	"type_define.h"
+	"render.h"
+
+1482063244 c:\users\frank\desktop\render engine\render.h
+
+1482063277 source:c:\users\frank\desktop\render engine\render.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"type_define.h"
+	"render.h"
+	"image.h"
+	"BasicMathFunc.h"
+	"console_draw3.h"
+
